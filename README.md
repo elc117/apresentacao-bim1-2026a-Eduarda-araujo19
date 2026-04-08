@@ -1,4 +1,4 @@
-# apresentacao-bim1-2026a-Eduarda-araujo19
+ # apresentacao-bim1-2026a-Eduarda-araujo19
 ------------------------------------------------------------------------------------------------------------
 
 # PARTE TEÓRICA:
@@ -88,3 +88,11 @@ Função que pega um tipo de dado (IO) e traz para dentro de um contexto(Scotty)
 
 ### Resultado:
 ![gif](p_pratica.gif)
+
+### Fontes
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2026a/main/classes/08/README.md#6
+
+https://wiki.haskell.org/index.php?title=All_About_Monads
+
+https://haskell.tailorfontela.com.br/input-and-output
