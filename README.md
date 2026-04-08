@@ -34,8 +34,7 @@ get "/users/:id" $ do
         then status status404 >> json ("User not found" :: String)
         else json (head result)
 ````
-Expressão que retorna um valor booleano
-
+Expressão condicional que avalia uma condição booleana e retorna um valor.
 <br>
 
 ### Elementos Novos:
