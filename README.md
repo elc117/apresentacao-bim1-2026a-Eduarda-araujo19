@@ -88,3 +88,4 @@ Função que pega um tipo de dado (IO) e traz para dentro de um contexto(Scotty)
 ````show:````Converte Int para String
 
 ### Resultado:
+![gif](p_pratica.gif)
